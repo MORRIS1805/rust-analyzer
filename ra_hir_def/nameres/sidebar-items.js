@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["mod_resolution","This module resolves `mod foo;` declaration to file."],["raw","FIXME: write short doc here"]]});
